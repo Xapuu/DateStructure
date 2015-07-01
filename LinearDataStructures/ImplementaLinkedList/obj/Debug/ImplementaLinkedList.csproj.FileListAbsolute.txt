@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementaLinkedList\bin\Debug\Problem7.ImplementaLinkedList.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementaLinkedList\obj\Debug\Problem7.ImplementaLinkedList.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementaLinkedList\obj\Debug\Problem7.ImplementaLinkedList.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementaLinkedList\obj\Debug\ImplementaLinkedList.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementaLinkedList\bin\Debug\Problem7.ImplementaLinkedList.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementaLinkedList\bin\Debug\Problem7.ImplementaLinkedList.pdb

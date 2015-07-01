@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ImplementLinkedList
+namespace DistanceInLabyrinth
 {
-    class ImplementLinkedList
+    class DistanceInLabyrinth
     {
         static void Main(string[] args)
         {

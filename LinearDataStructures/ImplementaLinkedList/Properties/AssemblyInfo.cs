@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ImplementLinkedList")]
+[assembly: AssemblyTitle("Problem7.ImplementaLinkedList")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ImplementLinkedList")]
+[assembly: AssemblyProduct("Problem7.ImplementaLinkedList")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3a348d29-2e58-4c37-8718-af5213f1de8d")]
+[assembly: Guid("7a443ef9-1479-4aed-980a-b53d416ca24c")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,1 +1,0 @@
-D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementLinkedList\bin\Debug\ImplementLinkedList.exe.config

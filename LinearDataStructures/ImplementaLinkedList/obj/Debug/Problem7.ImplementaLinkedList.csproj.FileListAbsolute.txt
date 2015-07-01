@@ -1,0 +1,6 @@
+E:\Development\CSharpProjects\SoftUni2\Database-Structures\02.LinearDataStructures\Problem7.ImplementaLinkedList\bin\Debug\Problem7.ImplementaLinkedList.exe.config
+E:\Development\CSharpProjects\SoftUni2\Database-Structures\02.LinearDataStructures\Problem7.ImplementaLinkedList\bin\Debug\Problem7.ImplementaLinkedList.exe
+E:\Development\CSharpProjects\SoftUni2\Database-Structures\02.LinearDataStructures\Problem7.ImplementaLinkedList\bin\Debug\Problem7.ImplementaLinkedList.pdb
+E:\Development\CSharpProjects\SoftUni2\Database-Structures\02.LinearDataStructures\Problem7.ImplementaLinkedList\obj\Debug\Problem7.ImplementaLinkedList.csprojResolveAssemblyReference.cache
+E:\Development\CSharpProjects\SoftUni2\Database-Structures\02.LinearDataStructures\Problem7.ImplementaLinkedList\obj\Debug\Problem7.ImplementaLinkedList.exe
+E:\Development\CSharpProjects\SoftUni2\Database-Structures\02.LinearDataStructures\Problem7.ImplementaLinkedList\obj\Debug\Problem7.ImplementaLinkedList.pdb
