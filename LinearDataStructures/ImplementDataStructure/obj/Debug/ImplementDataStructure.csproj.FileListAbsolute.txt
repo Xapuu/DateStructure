@@ -1,0 +1,7 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\ImplementDataStructure\bin\Debug\ImplementDataStructure.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementDataStructure\bin\Debug\Problem6.ImplementtheDataStructureReversedList.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementDataStructure\bin\Debug\Problem6.ImplementtheDataStructureReversedList.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementDataStructure\bin\Debug\Problem6.ImplementtheDataStructureReversedList.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementDataStructure\obj\Debug\ImplementDataStructure.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementDataStructure\obj\Debug\Problem6.ImplementtheDataStructureReversedList.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\ImplementDataStructure\obj\Debug\Problem6.ImplementtheDataStructureReversedList.pdb

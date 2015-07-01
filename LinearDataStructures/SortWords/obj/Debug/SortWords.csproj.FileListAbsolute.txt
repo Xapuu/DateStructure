@@ -1,0 +1,8 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SortWords\bin\Debug\SortWords.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SortWords\bin\Debug\SortWords.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SortWords\bin\Debug\SortWords.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SortWords\obj\Debug\SortWords.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SortWords\obj\Debug\SortWords.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\SortWords\bin\Debug\SortWords.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\SortWords\obj\Debug\SortWords.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\SortWords\obj\Debug\SortWords.pdb

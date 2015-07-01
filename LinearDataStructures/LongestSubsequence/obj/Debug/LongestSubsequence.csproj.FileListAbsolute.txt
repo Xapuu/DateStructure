@@ -1,0 +1,9 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.pdb

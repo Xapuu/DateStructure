@@ -1,0 +1,9 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SumАndAverage\bin\Debug\SumАndAverage.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SumАndAverage\bin\Debug\SumАndAverage.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SumАndAverage\bin\Debug\SumАndAverage.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SumАndAverage\obj\Debug\SumАndAverage.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SumАndAverage\obj\Debug\SumАndAverage.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\AlgorithmsComplexity\LinearDataStructures\SumАndAverage\obj\Debug\SumАndAverage.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\SumАndAverage\bin\Debug\SumАndAverage.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\SumАndAverage\obj\Debug\SumАndAverage.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\SumАndAverage\obj\Debug\SumАndAverage.pdb
