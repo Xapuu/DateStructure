@@ -1,1 +1,6 @@
 D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\DistanceInLabyrinth\bin\Debug\DistanceInLabyrinth.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\DistanceInLabyrinth\bin\Debug\DistanceInLabyrinth.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\DistanceInLabyrinth\bin\Debug\DistanceInLabyrinth.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\DistanceInLabyrinth\obj\Debug\DistanceInLabyrinth.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\DistanceInLabyrinth\obj\Debug\DistanceInLabyrinth.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\LinearDataStructures\DistanceInLabyrinth\obj\Debug\DistanceInLabyrinth.pdb
