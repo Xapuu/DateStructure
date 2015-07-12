@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\SequenceNtoM_Items\bin\Debug\SequenceNtoM_Items.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\SequenceNtoM_Items\obj\Debug\SequenceNtoM_Items.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\SequenceNtoM_Items\bin\Debug\SequenceNtoM_Items.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\SequenceNtoM_Items\bin\Debug\SequenceNtoM_Items.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\SequenceNtoM_Items\obj\Debug\SequenceNtoM_Items.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\SequenceNtoM_Items\obj\Debug\SequenceNtoM_Items.pdb

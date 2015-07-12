@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\CalculateSequenceQueue\bin\Debug\CalculateSequenceQueue.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\CalculateSequenceQueue\bin\Debug\CalculateSequenceQueue.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\CalculateSequenceQueue\bin\Debug\CalculateSequenceQueue.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\CalculateSequenceQueue\obj\Debug\CalculateSequenceQueue.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\CalculateSequenceQueue\obj\Debug\CalculateSequenceQueue.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\CalculateSequenceQueue\obj\Debug\CalculateSequenceQueue.pdb

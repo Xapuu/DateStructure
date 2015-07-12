@@ -1,0 +1,7 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ArrayBasedStackUnitTest\bin\Debug\ArrayBasedStackUnitTest.dll
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ArrayBasedStackUnitTest\bin\Debug\ArrayBasedStackUnitTest.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ArrayBasedStackUnitTest\bin\Debug\ArrayBasedStack.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ArrayBasedStackUnitTest\bin\Debug\ArrayBasedStack.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ArrayBasedStackUnitTest\obj\Debug\ArrayBasedStackUnitTest.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ArrayBasedStackUnitTest\obj\Debug\ArrayBasedStackUnitTest.dll
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ArrayBasedStackUnitTest\obj\Debug\ArrayBasedStackUnitTest.pdb

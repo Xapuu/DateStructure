@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ReverseNumStack\bin\Debug\ReverseNumStack.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ReverseNumStack\bin\Debug\ReverseNumStack.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ReverseNumStack\bin\Debug\ReverseNumStack.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ReverseNumStack\obj\Debug\ReverseNumStack.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ReverseNumStack\obj\Debug\ReverseNumStack.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\ReverseNumStack\obj\Debug\ReverseNumStack.pdb

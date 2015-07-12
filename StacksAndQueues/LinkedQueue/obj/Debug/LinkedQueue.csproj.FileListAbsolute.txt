@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\LinkedQueue\bin\Debug\LinkedQueue.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\LinkedQueue\bin\Debug\LinkedQueue.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\LinkedQueue\bin\Debug\LinkedQueue.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\LinkedQueue\obj\Debug\LinkedQueue.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\LinkedQueue\obj\Debug\LinkedQueue.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\StacksAndQueues\LDS_StacksAndQueues\LinkedQueue\obj\Debug\LinkedQueue.pdb
