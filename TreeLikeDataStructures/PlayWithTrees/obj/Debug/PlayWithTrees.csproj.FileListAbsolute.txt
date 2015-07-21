@@ -1,0 +1,9 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\PlayWithTrees\bin\Debug\PlayWithTrees.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\PlayWithTrees\bin\Debug\PlayWithTrees.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\PlayWithTrees\bin\Debug\PlayWithTrees.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\PlayWithTrees\obj\Debug\PlayWithTrees.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\PlayWithTrees\obj\Debug\PlayWithTrees.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\PlayWithTrees\obj\Debug\PlayWithTrees.pdb
+C:\Users\Mike\Desktop\TreeLikeDataStructures\PlayWithTrees\bin\Debug\PlayWithTrees.exe.config
+C:\Users\Mike\Desktop\TreeLikeDataStructures\PlayWithTrees\obj\Debug\PlayWithTrees.exe
+C:\Users\Mike\Desktop\TreeLikeDataStructures\PlayWithTrees\obj\Debug\PlayWithTrees.pdb
