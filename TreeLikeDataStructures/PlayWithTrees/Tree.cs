@@ -12,7 +12,7 @@ namespace PlayWithTrees
     {
         private readonly IDictionary<T, TreeNode<T>> _nodes= new Dictionary<T, TreeNode<T>>();
 
-        public TreeNode<T> RoodNode
+        public TreeNode<T> RooTNode
         {
             get { return this._nodes.Values.FirstOrDefault(node => node.Parent == null); }
         }

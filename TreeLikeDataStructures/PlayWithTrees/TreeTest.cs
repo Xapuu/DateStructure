@@ -24,8 +24,8 @@ namespace PlayWithTrees
             int pathSum = int.Parse(Console.ReadLine());
 
             TreeTraverseUtils.PrintTree(testTree.Nodes);
-            TreeTraverseUtils.GetLongestPathInTree(testTree.RoodNode);
-            TreeTraverseUtils.GetPathWithGivenSum(testTree.RoodNode, pathSum);
+            TreeTraverseUtils.GetLongestPathInTree(testTree.RooTNode);
+            TreeTraverseUtils.GetPathWithGivenSum(testTree.RooTNode, pathSum);
         }           
     }
 }
