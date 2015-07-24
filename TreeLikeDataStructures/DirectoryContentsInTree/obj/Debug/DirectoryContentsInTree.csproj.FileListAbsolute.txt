@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\DirectoryContentsInTree\bin\Debug\DirectoryContentsInTree.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\DirectoryContentsInTree\bin\Debug\DirectoryContentsInTree.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\DirectoryContentsInTree\bin\Debug\DirectoryContentsInTree.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\DirectoryContentsInTree\obj\Debug\DirectoryContentsInTree.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\DirectoryContentsInTree\obj\Debug\DirectoryContentsInTree.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeLikeDataStructures\DirectoryContentsInTree\obj\Debug\DirectoryContentsInTree.pdb
