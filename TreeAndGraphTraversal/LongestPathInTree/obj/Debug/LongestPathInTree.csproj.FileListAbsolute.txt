@@ -1,6 +1,0 @@
-D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\LongestPathInTree\bin\Debug\LongestPathInTree.exe.config
-D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\LongestPathInTree\bin\Debug\LongestPathInTree.exe
-D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\LongestPathInTree\bin\Debug\LongestPathInTree.pdb
-D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\LongestPathInTree\obj\Debug\LongestPathInTree.csprojResolveAssemblyReference.cache
-D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\LongestPathInTree\obj\Debug\LongestPathInTree.exe
-D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\LongestPathInTree\obj\Debug\LongestPathInTree.pdb
