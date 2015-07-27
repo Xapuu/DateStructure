@@ -1,0 +1,11 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance_2\bin\Debug\RoundDance.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance_2\bin\Debug\RoundDance.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance_2\bin\Debug\RoundDance.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance_2\obj\Debug\RoundDance.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance_2\obj\Debug\RoundDance.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance\bin\Debug\RoundDance.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance\obj\Debug\RoundDance.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance\obj\Debug\RoundDance.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance\bin\Debug\RoundDance.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance\bin\Debug\RoundDance.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RoundDance\obj\Debug\RoundDance.csprojResolveAssemblyReference.cache
