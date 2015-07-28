@@ -1,1 +1,6 @@
 D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RideTheHorse\bin\Debug\RideTheHorse.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RideTheHorse\bin\Debug\RideTheHorse.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RideTheHorse\bin\Debug\RideTheHorse.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RideTheHorse\obj\Debug\RideTheHorse.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RideTheHorse\obj\Debug\RideTheHorse.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\TreeAndGraphTraversal\RideTheHorse\obj\Debug\RideTheHorse.pdb
