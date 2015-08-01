@@ -1,0 +1,6 @@
+D:\Programming Apps&Projects\VSProjects\DateStructures\DictionariesHashTablesSets\CountSymbols\bin\Debug\CountSymbols.exe.config
+D:\Programming Apps&Projects\VSProjects\DateStructures\DictionariesHashTablesSets\CountSymbols\bin\Debug\CountSymbols.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\DictionariesHashTablesSets\CountSymbols\bin\Debug\CountSymbols.pdb
+D:\Programming Apps&Projects\VSProjects\DateStructures\DictionariesHashTablesSets\CountSymbols\obj\Debug\CountSymbols.csprojResolveAssemblyReference.cache
+D:\Programming Apps&Projects\VSProjects\DateStructures\DictionariesHashTablesSets\CountSymbols\obj\Debug\CountSymbols.exe
+D:\Programming Apps&Projects\VSProjects\DateStructures\DictionariesHashTablesSets\CountSymbols\obj\Debug\CountSymbols.pdb
